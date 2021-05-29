@@ -11,8 +11,9 @@ h1 {
     text-align: center;
 }
 
-.h2 {
-    font-size: 40px;
+h2 {
+    margin-right: 20px;
+    font-size: 30px;
     font-weight: normal;
     text-align: center;
 }
@@ -139,7 +140,7 @@ section {
 .bleu {
     border-top: 5px solid #b48d96;
     background-color: rgba(255, 11, 38, 0.15);
-    margin-bottom: 0px;
+    margin-bottom: 20px;
 }
 
 .leftexp {
