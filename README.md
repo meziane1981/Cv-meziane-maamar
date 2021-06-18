@@ -11,3 +11,4 @@ changement les information de
 rect le bug 03/06/21
 changement par fdex
 changement par fdex
+mon cv 
