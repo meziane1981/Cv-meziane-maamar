@@ -34,3 +34,4 @@ travaille crud in php 04/08/2021
 travaille crud in php 05/08/2021
 travaille crud in php 06/08/2021
 travaille crud in php 08/08/2021
+travaille crud in php 10/08/2021
