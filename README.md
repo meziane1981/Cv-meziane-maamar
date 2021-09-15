@@ -33,6 +33,7 @@ travaille openclassrooms php 03/08/2021
 travaille crud in php 04/08/2021
 travaille crud in php 05/08/2021
 travaille crud in php 06/08/2021
+travaille crud in php 07/08/2021
 travaille crud in php 08/08/2021
 travaille crud in php 10/08/2021
  travaille crud in php 12/08/2021
@@ -60,4 +61,5 @@ travaille en php 06/09/2021
 travaille en php 07/09/2021
 travaille en php 09/09/2021
 travaille en php 13/09/2021
-travaille en php 13/09/2021
+travaille en php 14/09/2021
+travaille en site vitrine 15/09/2021
