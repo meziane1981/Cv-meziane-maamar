@@ -66,3 +66,4 @@ travaille en site vitrine 15/09/2021
 travaille en site vitrine 27/0021
 travaille en site vitrine 27/09/2021
 le 14/10/2021 ruby 
+le 16/10/2021 ruby jekyll
