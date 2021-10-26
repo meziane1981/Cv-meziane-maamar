@@ -70,3 +70,4 @@ le 16/10/2021 ruby jekyll
 le 18/10/2021 ruby jekyll
 le 19/10/2021 ruby jekyll
 le 22/10/2021 ruby jekyll
+e 26/10/2021 ruby jekyll
