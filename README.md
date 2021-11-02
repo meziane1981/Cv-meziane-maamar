@@ -33,6 +33,7 @@ travaille openclassrooms php 03/08/2021
 travaille crud in php 04/08/2021
 travaille crud in php 05/08/2021
 travaille crud in php 06/08/2021
+
 travaille crud in php 07/08/2021
 travaille crud in php 08/08/2021
 travaille crud in php 10/08/2021
@@ -73,3 +74,4 @@ le 22/10/2021 ruby jekyll
 e 26/10/2021 ruby jekyll
  28/10/2021 ruby jekyll
 31/10/2021 ruby jekyll
+02/10/2021 ruby jekyll stage
