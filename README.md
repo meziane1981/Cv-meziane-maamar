@@ -74,5 +74,6 @@ le 22/10/2021 ruby jekyll
 e 26/10/2021 ruby jekyll
  28/10/2021 ruby jekyll
 31/10/2021 ruby jekyll
-02/10/2021 ruby jekyll stage
-0403/10/2021 ruby jekyll stage
+02/11/2021 ruby jekyll stage
+03/11/2021 ruby jekyll stage
+04/11/2021 ruby jekyll stage
