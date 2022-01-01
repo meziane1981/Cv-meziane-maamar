@@ -124,4 +124,6 @@ stage 15/11/2021 ruby jekyll stage
 27/12/2021 pre ex jur
 28/12/2021 pre ex jur
 29/12/2021 pre ex jur
+31/12/2021 pre ex jur
+30/12/2021 pre ex jur
 30/12/2021 pre ex jur
