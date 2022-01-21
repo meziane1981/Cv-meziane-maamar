@@ -33,6 +33,7 @@ travaille openclassrooms php 03/08/2021
 travaille crud in php 04/08/2021
 travaille crud in php 05/08/2021
 travaille crud in php 06/08/2021
+travaille crud in php 06/08/2021
 
 travaille crud in php 07/08/2021
 travaille crud in php 08/08/2021
@@ -135,8 +136,16 @@ stage 15/11/2021 ruby jekyll stage
 13/01/2022 pre ex jur
 15/01/2022 pre ex 
 16/01/2022 pre ex jur
-17/01/2022 pre ex jur
-18/01/2022 pre ex jur
-19/01/2022 pre ex jur
-20/01/2022
+17/01/2022 formation aplle fondation 
+18/01/2022 formation aplle fondation 
+19/01/2022 formation aplle fondation 
+20/01/2022 formation aplle fondation 
+21/01/2022 formation aplle fondation 
+17/01/2022 formation aplle fondation 
+17/01/2022 formation aplle fondation 
+17/01/2022 formation aplle fondation 
+17/01/2022 formation aplle fondation 
+17/01/2022 formation aplle fondation 
+17/01/2022 formation aplle fondation 
+17/01/2022 formation aplle fondation  
 
