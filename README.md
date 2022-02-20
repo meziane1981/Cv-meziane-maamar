@@ -169,7 +169,7 @@ stage 15/11/2021 ruby jekyll stage
 15/02/2022 formation aplle fondation
 17/02/2022 formation aplle fondation
 18/02/2022 formation aplle fondation
-/02/2022 formation aplle fondation
+20/02/2022 formation aplle fondation
 /02/2022 formation aplle fondation
 /02/2022 formation aplle fondation
 
