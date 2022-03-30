@@ -9,7 +9,7 @@ rect le bg le 02/06/2021
 rect le bug 03/06/21
 changement les information de 
 rect le bug 03/06/21
-changement par fdex
+changement par fdexF
 changement par fdex
 mon cv 
 travaille js avec 1 partie 19/05/2021
