@@ -176,7 +176,7 @@ stage 15/11/2021 ruby jekyll stage
 27/02/2022 formation php poo
 25/02/2022 formation php poo
 26/02/2022 formation php poo
-25/02/2022 formation php poo
+25/02/2022 formation php pook
 25/02/2022 formation php poo
 25/02/2022 formation php pogo
 25/02/2022 formation php poo
